@@ -1,1 +1,2 @@
-hello world console changes
+hello world
+changes done from developer side to newbranch
